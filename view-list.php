@@ -17,7 +17,7 @@ mysqli_select_db($conn,"sparks");
     <nav>
         <ul>
             <li><a href="index.php">Home</a></li>
-            <li><a href="#">About</a></li>
+            <li><a href="about.php">About</a></li>
         </ul>
         <label id="bar" class="fa fa-bars"></label>
     </nav><br>
